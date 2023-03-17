@@ -11,9 +11,10 @@ import time
 import numpy as np
 from sklearn.cluster import KMeans
 
-openai.api_key      = os.environ['OPENAI_API_KEY']
+# openai.api_key      = os.environ['OPENAI_API_KEY']
+openai.api_key      = input('Enter OpenAI API key: ')
 
-book_name           = 'psychology-of-money'
+book_name           = input('Enter book name: ')
 
 # Make directory for book if it doesn't exist
 if not os.path.exists(f'BookProcessed/{book_name}'):
