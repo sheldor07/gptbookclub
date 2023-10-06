@@ -1,0 +1,17 @@
+## Key Idea: The Mathematical Beauty of a Revenue System
+
+Doug, the founder of www.prosoundeffects.com, has developed a revenue system that is both elegant and efficient. Let's take a closer look at how it works.
+
+Doug's revenue system revolves around several key steps. First, he attracts prospective customers through Pay-Per-Click (PPC) advertising on search engines like Google. When a potential customer clicks on the advertisement, they are directed to Doug's website.
+
+Once on the website, if a customer decides to make a purchase, they can easily do so using a Yahoo shopping cart. The average price of a product on Doug's website is $325, though prices vary from $29 to $7,500. When the customer completes their order, a PDF containing all the necessary billing and shipping information is automatically emailed to Doug.
+
+Now comes the impressive part. Doug has streamlined the process of charging the customers' credit cards and receiving payments. Using the Yahoo management page, he can effortlessly charge all his customers' credit cards with just the click of a button. The funds are then deposited directly into his bank account, providing him with upfront cash.
+
+To fulfill the orders, Doug converts the PDFs into Excel purchase orders. He then emails these purchase orders to the manufacturers of the CD libraries, who handle the process of shipping the products directly to Doug's customers. This practice is known as drop-shipping, and it allows Doug to avoid the complexities and costs associated with inventory management and shipping logistics.
+
+What makes Doug's revenue system truly remarkable is the financial aspect. He pays the manufacturers of the CD libraries as little as 45% of the retail price of the products, but he is not required to make these payments until up to 90 days later. This flexibility, known as net-90 terms, allows Doug to collect revenue from his customers before needing to pay his suppliers.
+
+This revenue system not only provides financial gains for Doug's business but also highlights the mathematical beauty of its design. By leveraging PPC advertising, streamlined purchasing processes, and drop-shipping, Doug has created a seamless and efficient system that maximizes revenue while minimizing costs.
+
+In summary, Doug's revenue system is a testament to mathematical elegance. Through PPC advertising, streamlined purchasing processes, and drop-shipping, Doug is able to attract customers, process payments, fulfill orders, and collect revenue with ease. The net-90 terms he utilizes further enhance his cash flow, allowing him to generate upfront cash while postponing supplier payments. This system showcases the ingenuity behind Doug's approach and serves as a model for efficient revenue management.
